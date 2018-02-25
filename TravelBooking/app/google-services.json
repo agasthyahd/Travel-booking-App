@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "289561784651",
+    "firebase_url": "https://abcd-3e372.firebaseio.com",
+    "project_id": "abcd-3e372",
+    "storage_bucket": "abcd-3e372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289561784651:android:822578bc269d041f",
+        "android_client_info": {
+          "package_name": "com.example.agasthya.udbhavdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289561784651-9rv5biq17ghgj9avgvip96i6a4f6vu9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-7sawLcqTgo7dHm8lQyPqSxASmGu4CTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289561784651:android:e5065f4a87edeb00",
+        "android_client_info": {
+          "package_name": "com.example.agasthya.travelbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289561784651-9rv5biq17ghgj9avgvip96i6a4f6vu9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-7sawLcqTgo7dHm8lQyPqSxASmGu4CTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
